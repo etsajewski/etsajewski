@@ -2,7 +2,7 @@ Hey everyone,
 
 I'm Elizabeth Sajewski, PhD. 
 
-I'm an infectious disease epidemiologist at Yale School of Public Health in the Department of Epidemiology of Microbial Diseases and the Public Health Modeling Unit.
+I'm an infectious disease epidemiologist and postdoc at Yale School of Public Health in the Department of Epidemiology of Microbial Diseases and the Public Health Modeling Unit.
 
 I use mathematical and statistical models to predict, explore, and compare the impacts of vaccination and other interventions on enteric and respiratory diseases, including norovirus, COVID-19, and, currently, rotavirus and typhoid fever. 
 
